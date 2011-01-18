@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: awarner20
-Donate link: http://wpmodder.com/
+Donate link: http://wpprobusiness.com/
 Tags: widgets, widget title, hide title, hide widget titles
 Requires at least: 2.9.2
 Tested up to: 3.0.4

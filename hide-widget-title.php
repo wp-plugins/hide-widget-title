@@ -1,10 +1,10 @@
 <?php 
 /*
 Plugin Name: Hide Widget Title
-Plugin URI: http://wpmodder.com
+Plugin URI: http://wpprobusiness.com
 Description: Adds checkbox to all widgets that enables you to hide a widget title on the frontend of your site. All widget titles remain visible in admin.
 Author: Adam W. Warner	
-Author URI: http://wpmodder.com
+Author URI: http://wpprobusiness.com
 Version: 1.0
 */
 
